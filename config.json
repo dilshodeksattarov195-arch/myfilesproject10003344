@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpalculate",
+        "uuid": 7223040,
+        "checksum": "9h7sgq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
